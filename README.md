@@ -13,4 +13,11 @@ technologies used:
 - Spring Boot
 - Spring Cloud
 - docker
-
+- Resilience4j
+- Prometheus
+- Grafana
+- OAuth2.0
+- Spring Security
+- Kafka
+- RabbitMQ
+- Maven
