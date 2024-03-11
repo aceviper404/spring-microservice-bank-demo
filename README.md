@@ -12,6 +12,7 @@ Technologies used:
 - Java
 - Spring Boot
 - Spring Cloud
+- API Gateway
 - docker
 - Resilience4j
 - Prometheus
@@ -21,3 +22,4 @@ Technologies used:
 - Kafka
 - RabbitMQ
 - Maven
+- Open API/Swagger
