@@ -8,7 +8,7 @@ Contains microservices:
 - api gateway
 
 
-technologies used:
+Technologies used:
 - Java
 - Spring Boot
 - Spring Cloud
