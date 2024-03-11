@@ -1,7 +1,7 @@
-package com.eazybank.cardsservice.service.mapper;
+package com.demo.cardsservice.service.mapper;
 
-import com.eazybank.cardsservice.domain.Card;
-import com.eazybank.cardsservice.service.dto.CardDto;
+import com.demo.cardsservice.domain.Card;
+import com.demo.cardsservice.service.dto.CardDto;
 
 public class CardMapper {
 
