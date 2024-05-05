@@ -1,6 +1,6 @@
 # Spring Demo Bank Application
 
-Contains microservices:
+## Contains microservices:
 - accounts microservice
 - card microservice
 - config server
@@ -8,7 +8,7 @@ Contains microservices:
 - api gateway
 
 
-# Technologies used:
+## Technologies used:
 - Java
 - Spring Boot
 - Spring Cloud
